@@ -15,8 +15,7 @@ laterYears *= 4;
 const myAgeInDogYears = earlyYears + laterYears;
 
 // assing my name to a variable and making it all lower case
-let myName = 'Eliza';
-myName = myName.toLowerCase();
+let myName = 'Eliza'.toLowerCase();
 
 // displaying human age and dog age in a string
 console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`);
